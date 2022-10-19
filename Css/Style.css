@@ -1,0 +1,33 @@
+
+h5 {
+    padding: 0;
+    margin: 0 !important;
+}
+
+.Container_Display {
+    padding: 22px;
+    background-color: #4caf50;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.parentLi :nth-child(1) {
+    color:#dee2e6
+}
+
+a {
+    text-decoration: none;
+    color: White;
+    margin-left: 35px;
+    background-color: #009688;
+    padding: 8px;
+    border-radius: 8px;
+    transition: .2s;
+}
+a:hover {
+    background-color: transparent !important;
+    color: #fff;
+}
